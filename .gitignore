@@ -1,0 +1,4 @@
+.DS_Store
+*.gslides
+.ipynb_checkpoints
+*.pptx
